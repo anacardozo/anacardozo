@@ -5,7 +5,12 @@ Meu nome é Ana Flávia Cardozo Ribeiro, tenho 18 anos e sou de Jacupiranga do V
 
 <p align="left">
 
-<a href="https://www.instagram.com/_anacardozoofc/?igsh=MW03cmE4b2Q3NTU2aw%3D%3D#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/_anacardozoofc/?igsh=MW03cmE4b2Q3NTU2aw%3D%3D#" target="_blank">
+    <img 
+        alt="Instagram" 
+        title="Me siga no Instagram" 
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
 </a>   
 <a href="https://github.com/anacardozo?tab=followers">
         <img 
