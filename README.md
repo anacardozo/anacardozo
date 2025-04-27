@@ -1,7 +1,7 @@
 # 👩‍💻 Ana Flávia
 **`Estudante de Desenvolvimento de Software Multiplataformas`**
 
-Meu nome é Ana Flávia Cardozo Ribeiro, tenho 18 anos e sou de Jacupiranga do Vale do Ribeira. Fiz meu ensino medio na ETEC de Registro, com o curos técnico de Analise e Desenvolvimento de Sistemas. Atualmente, curso Desenvolvimento de Software Multiplataformas na FATEC de Registro. Estou aprimorando meu conhecimento em programação e buscando ser uma Desenvolvedora Back-End.
+Meu nome é Ana Flávia Cardozo Ribeiro, tenho 18 anos e sou de Jacupiranga do Vale do Ribeira. Fiz meu ensino medio na ETEC de Registro, com o curso técnico de Analise e Desenvolvimento de Sistemas. Atualmente, curso Desenvolvimento de Software Multiplataformas na FATEC de Registro. Estou aprimorando meu conhecimento em programação e buscando ser uma Desenvolvedora Back-End.
 
 <p align="left">
 
