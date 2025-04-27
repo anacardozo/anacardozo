@@ -90,7 +90,7 @@ Meu nome é Ana Flávia Cardozo Ribeiro, tenho 18 anos e sou de Jacupiranga do V
 <img
     align="left"
     alt="Github Stats"
-    height="200" 
+    height="150" 
     style="padding-right: 10px;
     "
  src="https://github-readme-stats.vercel.app/api?username=anacardozo&show_icons=true&include_all_commits=true&theme=radical&locale=pt-br" />
@@ -98,7 +98,7 @@ Meu nome é Ana Flávia Cardozo Ribeiro, tenho 18 anos e sou de Jacupiranga do V
 <img
     align="left"
     alt="Github Stats"
-    height="200" 
+    height="150" 
     style="padding-right: 10px;
     "
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacardozo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />      
