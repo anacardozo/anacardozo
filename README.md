@@ -72,6 +72,15 @@ Meu nome é Ana Flávia Cardozo Ribeiro, tenho 19 anos e sou de Jacupiranga do V
     "
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
+ <img
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
+    width="30px" 
+    style="padding-right: 10px;
+    "
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
 <br/>
 <br/>
 
